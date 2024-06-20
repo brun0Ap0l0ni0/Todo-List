@@ -1,0 +1,43 @@
+h2 {
+  color: rgb(229, 227, 215);
+}
+
+.todo-form {
+  margin-top: 72px;
+  margin-bottom: 32px;
+}
+
+.select-todo-form {
+  font-size: 20px;
+  color: rgb(229, 227, 215);
+  background-color: rgb(31, 31, 31);
+  padding: 16px;
+  border: solid 1px rgb(208, 173, 0);
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.btn-todo-form {
+  font-size: 20px;
+  padding: 16px;
+  background-color: rgb(208, 173, 0);
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.titulo-todo-form {
+  font-size: 20px;
+  padding: 16px;
+  border: solid 1px rgb(208, 173, 0);
+  border-radius: 8px;
+  color: rgb(229, 227, 215);
+  background-color: rgb(31, 31, 31);
+}
+
+.form-todo {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  margin-top: 56px;
+}
